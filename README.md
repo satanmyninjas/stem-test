@@ -1,2 +1,3 @@
 # stem-test
-Brief GitHub walkthrough.
+Useless GitHub walkthrough.
+Sports.
